@@ -1,0 +1,17 @@
+#tuoi_dati {
+    background-color: rgb(186, 183, 183);
+    margin-bottom: 30px;
+}
+
+
+#password_creation {
+    background-color: rgb(183, 177, 177);
+}
+
+
+
+#password {
+    color: red;
+    background-color: rgb(183, 177, 177);
+}
+
