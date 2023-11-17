@@ -13,14 +13,11 @@ document.getElementById("cognome").innerHTML= (userLastName);
 document.getElementById("colore_preferito").innerHTML= (color);
 
 
-
-
-document.getElementById("password_creation").innerHTML="La tua password temporane è: ";
-
+document.getElementById("password").innerHTML=`La tu password è: ${userName}${userLastName}${color}${year}`
 
 
 
+// document.getElementById("password_creation").innerHTML="La tua password temporane è: ";
 
 
-
-document.getElementById("password").innerHTML=(userName + userLastName + color + year);
+// document.getElementById("password").innerHTML=(userName + userLastName + color + year);
